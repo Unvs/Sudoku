@@ -6,4 +6,4 @@
 
 截面图：
 
-![image](https://github.com/Unvs/Sudoku/raw/master/Images/UI.png)
+![image](https://github.com/Unvs/Sudoku/blob/master/Images/%20UI.png)
