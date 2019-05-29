@@ -1,2 +1,3 @@
-# didactic-lamp
-Including my own projects
+# 基于Python的数独游戏设计与开发
+
+功能模块图
