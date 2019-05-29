@@ -5,3 +5,5 @@
 ![image](https://github.com/Unvs/Sudoku/raw/master/Images/function.png)
 
 截面图：
+
+![image](https://github.com/Unvs/Sudoku/raw/master/Images/UI.png)
