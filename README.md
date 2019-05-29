@@ -2,4 +2,4 @@
 
 功能模块图
 
-![image](http://github.com/Unvs/Sudoku/raw/master/Images/function.png)
+![image](https://github.com/Unvs/Sudoku/raw/master/Images/function.png)
